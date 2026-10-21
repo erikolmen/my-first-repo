@@ -9,3 +9,7 @@ Here is a list:
   + Item 3
 
 For more information about Markdown syntax, see the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
+
+## About ME
+
+I'm taking OPAN 3244 in Fall 2026. This repo is for practicing version control
